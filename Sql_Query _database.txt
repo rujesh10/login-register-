@@ -1,0 +1,8 @@
+CREATE schema reglog;
+
+create table tb_user(
+  id int PRIMARY KEY,
+  usernameemail varchar(50),
+  password varchar(50),
+  date/time
+);
