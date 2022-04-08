@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav{
+    display: flex;
+}
+
+h1{
+    font-size: 30px;
+}
+
+.navbar h1{
+    padding: 7px;
+}
+
+.navbar{
+    width: 50%;
+}
+
+.log{
+    width: 50%;
+    text-align:right;
+    padding: 15px;
+}
+
+.log a{
+    text-decoration: none;
+    color: black;
+}
+
+.log a:hover{
+    color: rgb(201, 125, 26);    
+}
